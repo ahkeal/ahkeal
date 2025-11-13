@@ -1,12 +1,12 @@
 # Hello, I'm Nathan
 <a href="https://www.linkedin.com/in/nathan-hill-7531b2270/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction - Remove this afterwards][ADD ELEVATOR PITCH COM 2020 INFO FROM FILES]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective - Remove this afterwards]] [ADD ELEVATOR PITCH COM 2020 INFO FROM FILES]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -24,6 +24,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Networking & Infrastructure Tools
+
+- **Cisco IOS / Catalyst** – Routing, switching, VLAN configuration, and subnetting  
+- **SolarWinds & PRTG** – Network and endpoint monitoring, uptime tracking, and alert configuration  
+- **pfSense / VPNs (IPSec, GRE)** – Firewall rules, VPN configuration, and secure remote access  
+- **Wireshark** – Deep packet inspection and protocol analysis for troubleshooting  
+
 
 ### Network
 <div>
