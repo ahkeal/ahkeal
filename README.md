@@ -24,58 +24,63 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools *DONE
 
-### 🖥️ Networking & Infrastructure  
-- **Cisco IOS / Catalyst** – Routing, switching, VLAN configuration, and subnetting  
-- **SolarWinds & PRTG** – Network and endpoint monitoring, uptime tracking, and alert configuration  
-- **pfSense / VPNs (IPSec, GRE)** – Firewall rules, VPN configuration, and secure remote access  
-- **Wireshark** – Deep packet inspection and protocol analysis for troubleshooting  
+
+###  Network
+- **Cisco IOS / Catalyst** – Routing, switching, VLANs, subnetting, and network segmentation  
+- **SolarWinds & PRTG** – Network and endpoint performance monitoring with proactive alerting  
+- **pfSense / VPNs (IPSec, GRE)** – Secure remote access and firewall rule configuration  
+- **Wireshark** – Packet capture and network traffic analysis for troubleshooting and detection  
+- **Wireless Technologies:** WPA2/WPA3, 802.1X, RADIUS authentication and Wi-Fi performance tuning  
+- **Physical Infrastructure:** Cable terminations, patch-panel maintenance, and LAN optimization  
 
 ---
 
-### 🔒 Security & Compliance  
-- **SIEM & Forensics:** Splunk (log correlation, detection dashboards), Autopsy (digital forensics)  
-- **Governance & Risk:** NIST CSF, COBIT, CIS Controls  
-- **Encryption & Access Controls:** AES, RSA, RBAC, ACLs  
-- **ServiceNow:** Incident management, SOC workflow automation, SLA compliance  
-- **Vulnerability Management:** Policy auditing, remediation tracking, and security patching  
+### SIEM / Security Operations
+- **Splunk** – SIEM configuration, log correlation, and detection dashboards  
+- **Autopsy** – Digital forensics and evidence analysis  
+- **ServiceNow** – SOC ticketing workflows, SLA tracking, and escalation management  
+- **Governance & Frameworks:** NIST CSF, COBIT, CIS Controls  
+- **Access Controls & Encryption:** RBAC, ACLs, AES, RSA  
+- **Vulnerability & Risk Management:** Security patching, compliance auditing, and remediation  
+- **Automation & SOAR:** Python-based enrichment scripts integrating APIs like VirusTotal and AbuseIPDB  
 
 ---
 
-### 💻 Programming, Automation & Scripting  
-- **Languages:** Python, PowerShell, SQL, Java  
-- **Use Cases:**  
-  - SOC automation and API integrations  
-  - Data analysis and reporting pipelines  
-  - Windows administration scripting  
-  - Database management and queries  
+###  Endpoint & Identity Management
+- **Active Directory & Microsoft 365** – User provisioning, group policy, and RBAC alignment  
+- **Endpoint Management:** Windows 10/11 configuration, patching, and antivirus policy enforcement  
+- **Remote Support:** AnyDesk for remote troubleshooting and device management  
+- **Identity Security:** MFA enforcement, least-privilege access, and account lifecycle automation  
 
 ---
 
-### 📡 Wireless & Endpoint Technologies  
-- **Wireless Standards:** WPA2 / WPA3, 802.1X, RADIUS authentication  
-- **Active Directory / Microsoft 365:** Account provisioning, group policy, and role-based access  
-- **Remote Management:** AnyDesk – Remote troubleshooting and endpoint support  
+### Cloud / Virtualization
+- **VMware ESXi / Proxmox / VirtualBox** – Multi-VM homelab infrastructure and virtualization orchestration  
+- **Windows Server & Domain Controller Setup** – AD, DNS, DHCP, and policy management  
+- **pfSense Firewall Appliance** – Network segmentation and intrusion prevention  
+- **Containerization & Monitoring:** Docker, Grafana, Prometheus for service and metric visualization  
 
 ---
 
-### 📊 Data Analytics & Visualization  
-- **Anaconda / Jupyter Notebook** – Data science environment setup and analysis  
-- **Tableau** – KPI dashboards, financial projections, and trend analysis  
-- **Excel / Power BI (Advanced)** – Data cleaning, modeling, and reporting automation  
+### Data Analytics / Scripting
+- **Python (Pandas, NumPy, Matplotlib)** – Data wrangling, automation, and visualization  
+- **Jupyter Notebook & Anaconda** – Data analysis and project documentation environment  
+- **SQL (PostgreSQL / MySQL)** – Query design, normalization, and stored procedure creation  
+- **PowerShell** – System administration and network automation scripting  
+- **Tableau / Power BI** – KPI dashboards, forecasting, and interactive visualization for financial data  
 
 ---
 
-### 🧰 Development & Engineering Environments  
-- **Visual Studio / VS Code** – Development and debugging environment for Python & Java  
-- **VMware / VirtualBox** – Virtualized lab deployment for testing, detection engineering, and sandboxing  
-- **Git / GitHub** – Version control, documentation, and collaboration on technical projects  
+### ⚙️ Other Supporting Tools & Platforms
+- **Visual Studio / VS Code** – Development, debugging, and version control integration  
+- **ServiceNow** – ITSM platform for incident documentation and process automation  
+- **Autopsy** – Forensic image analysis and digital evidence handling  
+- **Git / GitHub** – Version control, documentation, and portfolio hosting  
+- **Operating Systems:** Windows Server, Windows 10/11, Ubuntu, Kali Linux  
+- **Compliance Alignment:** COBIT 5, NIST Cybersecurity Framework, CIS Benchmarks  
+- **Communication & Documentation:** SOP creation, configuration records, audit evidence reports  
 
----
 
-### ⚙️ Operating Systems & Platforms  
-- **Windows Server / Client** – Administration, AD integration, and security policies  
-- **Linux (Ubuntu, Kali)** – Network services, forensics tools, and server management  
-- **Proxmox / ESXi** – Homelab infrastructure and virtualization orchestration  
 
 
 
