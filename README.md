@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-### Networking & Infrastructure Tools
+### 🖥️ Networking & Infrastructure Tools
 
 - **Cisco IOS / Catalyst** – Routing, switching, VLAN configuration, and subnetting  
 - **SolarWinds & PRTG** – Network and endpoint monitoring, uptime tracking, and alert configuration  
