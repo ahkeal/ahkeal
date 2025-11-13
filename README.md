@@ -23,13 +23,62 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-### 🖥️ Networking & Infrastructure Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] 
 
+### 🖥️ Networking & Infrastructure  
 - **Cisco IOS / Catalyst** – Routing, switching, VLAN configuration, and subnetting  
 - **SolarWinds & PRTG** – Network and endpoint monitoring, uptime tracking, and alert configuration  
 - **pfSense / VPNs (IPSec, GRE)** – Firewall rules, VPN configuration, and secure remote access  
 - **Wireshark** – Deep packet inspection and protocol analysis for troubleshooting  
+
+---
+
+### 🔒 Security & Compliance  
+- **SIEM & Forensics:** Splunk (log correlation, detection dashboards), Autopsy (digital forensics)  
+- **Governance & Risk:** NIST CSF, COBIT, CIS Controls  
+- **Encryption & Access Controls:** AES, RSA, RBAC, ACLs  
+- **ServiceNow:** Incident management, SOC workflow automation, SLA compliance  
+- **Vulnerability Management:** Policy auditing, remediation tracking, and security patching  
+
+---
+
+### 💻 Programming, Automation & Scripting  
+- **Languages:** Python, PowerShell, SQL, Java  
+- **Use Cases:**  
+  - SOC automation and API integrations  
+  - Data analysis and reporting pipelines  
+  - Windows administration scripting  
+  - Database management and queries  
+
+---
+
+### 📡 Wireless & Endpoint Technologies  
+- **Wireless Standards:** WPA2 / WPA3, 802.1X, RADIUS authentication  
+- **Active Directory / Microsoft 365:** Account provisioning, group policy, and role-based access  
+- **Remote Management:** AnyDesk – Remote troubleshooting and endpoint support  
+
+---
+
+### 📊 Data Analytics & Visualization  
+- **Anaconda / Jupyter Notebook** – Data science environment setup and analysis  
+- **Tableau** – KPI dashboards, financial projections, and trend analysis  
+- **Excel / Power BI (Advanced)** – Data cleaning, modeling, and reporting automation  
+
+---
+
+### 🧰 Development & Engineering Environments  
+- **Visual Studio / VS Code** – Development and debugging environment for Python & Java  
+- **VMware / VirtualBox** – Virtualized lab deployment for testing, detection engineering, and sandboxing  
+- **Git / GitHub** – Version control, documentation, and collaboration on technical projects  
+
+---
+
+### ⚙️ Operating Systems & Platforms  
+- **Windows Server / Client** – Administration, AD integration, and security policies  
+- **Linux (Ubuntu, Kali)** – Network services, forensics tools, and server management  
+- **Proxmox / ESXi** – Homelab infrastructure and virtualization orchestration  
+
+
 
 
 ### Network
