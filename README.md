@@ -25,60 +25,90 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools *DONE
 
 
-###  Network
-- **Cisco IOS / Catalyst** – Routing, switching, VLANs, subnetting, and network segmentation  
-- **SolarWinds & PRTG** – Network and endpoint performance monitoring with proactive alerting  
-- **pfSense / VPNs (IPSec, GRE)** – Secure remote access and firewall rule configuration  
-- **Wireshark** – Packet capture and network traffic analysis for troubleshooting and detection  
-- **Wireless Technologies:** WPA2/WPA3, 802.1X, RADIUS authentication and Wi-Fi performance tuning  
-- **Physical Infrastructure:** Cable terminations, patch-panel maintenance, and LAN optimization  
+## 🧠 Technical Domains & Tools  
+
+### 🌐 Network
+<div>
+    <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SolarWinds-F58220?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PRTG-0098FF?&style=for-the-badge&logo=Paessler&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=FreeBSD&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VPN-00A98F?&style=for-the-badge&logo=OpenVPN&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LAN/WAN-0078D7?&style=for-the-badge&logo=NetworkManager&logoColor=white" />
+</div>
 
 ---
 
-### SIEM / Security Operations
-- **Splunk** – SIEM configuration, log correlation, and detection dashboards  
-- **Autopsy** – Digital forensics and evidence analysis  
-- **ServiceNow** – SOC ticketing workflows, SLA tracking, and escalation management  
-- **Governance & Frameworks:** NIST CSF, COBIT, CIS Controls  
-- **Access Controls & Encryption:** RBAC, ACLs, AES, RSA  
-- **Vulnerability & Risk Management:** Security patching, compliance auditing, and remediation  
-- **Automation & SOAR:** Python-based enrichment scripts integrating APIs like VirusTotal and AbuseIPDB  
+### 🛡️ SIEM / Security Operations
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-4B275F?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow-00A300?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST_CSF-2E8B57?&style=for-the-badge&logo=NIST&logoColor=white" />
+    <img src="https://img.shields.io/badge/-COBIT-005571?&style=for-the-badge&logo=Cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CIS_Controls-6A1B9A?&style=for-the-badge&logo=SecurityScorecard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python_Automation-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
 
 ---
 
-###  Endpoint & Identity Management
-- **Active Directory & Microsoft 365** – User provisioning, group policy, and RBAC alignment  
-- **Endpoint Management:** Windows 10/11 configuration, patching, and antivirus policy enforcement  
-- **Remote Support:** AnyDesk for remote troubleshooting and device management  
-- **Identity Security:** MFA enforcement, least-privilege access, and account lifecycle automation  
+### 💻 Endpoint & Identity Management
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_365-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Endpoint-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AnyDesk-EF3B2D?&style=for-the-badge&logo=AnyDesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MFA_Security-2C3E50?&style=for-the-badge&logo=Authy&logoColor=white" />
+</div>
 
 ---
 
-### Cloud / Virtualization
-- **VMware ESXi / Proxmox / VirtualBox** – Multi-VM homelab infrastructure and virtualization orchestration  
-- **Windows Server & Domain Controller Setup** – AD, DNS, DHCP, and policy management  
-- **pfSense Firewall Appliance** – Network segmentation and intrusion prevention  
-- **Containerization & Monitoring:** Docker, Grafana, Prometheus for service and metric visualization  
+### ☁️ Cloud / Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=Proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" />
+</div>
 
 ---
 
-### Data Analytics / Scripting
-- **Python (Pandas, NumPy, Matplotlib)** – Data wrangling, automation, and visualization  
-- **Jupyter Notebook & Anaconda** – Data analysis and project documentation environment  
-- **SQL (PostgreSQL / MySQL)** – Query design, normalization, and stored procedure creation  
-- **PowerShell** – System administration and network automation scripting  
-- **Tableau / Power BI** – KPI dashboards, forecasting, and interactive visualization for financial data  
+### 📊 Data Analytics / Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Anaconda-44A833?&style=for-the-badge&logo=Anaconda&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=Pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=NumPy&logoColor=white" />
+</div>
 
 ---
 
 ### ⚙️ Other Supporting Tools & Platforms
-- **Visual Studio / VS Code** – Development, debugging, and version control integration  
-- **ServiceNow** – ITSM platform for incident documentation and process automation  
-- **Autopsy** – Forensic image analysis and digital evidence handling  
-- **Git / GitHub** – Version control, documentation, and portfolio hosting  
-- **Operating Systems:** Windows Server, Windows 10/11, Ubuntu, Kali Linux  
-- **Compliance Alignment:** COBIT 5, NIST Cybersecurity Framework, CIS Benchmarks  
-- **Communication & Documentation:** SOP creation, configuration records, audit evidence reports  
+<div>
+    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Documentation-6A5ACD?&style=for-the-badge&logo=ReadTheDocs&logoColor=white" />
+</div>
+
+---
+
+### 🎓 Certifications
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy_Digital_Forensics_Certification-4B275F?&style=for-the-badge&logo=SecurityScorecard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA_Network+_(In_Progress)-E60000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
 
 
 
@@ -92,13 +122,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & Identity Management
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM / Security Operations
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
