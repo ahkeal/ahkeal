@@ -24,9 +24,9 @@ My vision is to help create a safer digital world for everyone.
 ## Tools *DONE
 
 
-## 🧠 Technical Domains & Tools  
+## Technical Domains & Tools  
 
-### 🌐 Network
+### Network
 <div>
     <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-SolarWinds-F58220?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
@@ -41,7 +41,7 @@ My vision is to help create a safer digital world for everyone.
 
 ---
 
-### 🛡️ SIEM / Security Operations
+### SIEM / Security Operations
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-4B275F?&style=for-the-badge&logo=Autopsy&logoColor=white" />
@@ -56,7 +56,7 @@ My vision is to help create a safer digital world for everyone.
 
 ---
 
-### 💻 Endpoint & Identity Management
+### Endpoint & Identity Management
 <div>
     <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_365-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -69,7 +69,7 @@ My vision is to help create a safer digital world for everyone.
 
 ---
 
-### ☁️ Cloud / Virtualization
+### Cloud / Virtualization
 <div>
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=Proxmox&logoColor=white" />
@@ -81,7 +81,7 @@ My vision is to help create a safer digital world for everyone.
 
 ---
 
-### 📊 Data Analytics / Scripting
+### Data Analytics / Scripting
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
@@ -95,7 +95,7 @@ My vision is to help create a safer digital world for everyone.
 
 ---
 
-### ⚙️ Other Supporting Tools & Platforms
+### Other Supporting Tools & Platforms
 <div>
     <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
@@ -107,7 +107,7 @@ My vision is to help create a safer digital world for everyone.
 
 ---
 
-### 🎓 Certifications
+### Certifications
 <div>
     <img src="https://img.shields.io/badge/-Autopsy_Digital_Forensics_Certification-4B275F?&style=for-the-badge&logo=SecurityScorecard&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA_Network+_(In_Progress)-E60000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
