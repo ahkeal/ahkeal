@@ -35,6 +35,8 @@ My vision is to help create a safer digital world for everyone.
     <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=FreeBSD&logoColor=white" />
     <img src="https://img.shields.io/badge/-VPN-00A98F?&style=for-the-badge&logo=OpenVPN&logoColor=white" />
     <img src="https://img.shields.io/badge/-LAN/WAN-0078D7?&style=for-the-badge&logo=NetworkManager&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ---
@@ -48,6 +50,8 @@ My vision is to help create a safer digital world for everyone.
     <img src="https://img.shields.io/badge/-COBIT-005571?&style=for-the-badge&logo=Cloudflare&logoColor=white" />
     <img src="https://img.shields.io/badge/-CIS_Controls-6A1B9A?&style=for-the-badge&logo=SecurityScorecard&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python_Automation-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ---
@@ -59,6 +63,8 @@ My vision is to help create a safer digital world for everyone.
     <img src="https://img.shields.io/badge/-Windows_Endpoint-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-AnyDesk-EF3B2D?&style=for-the-badge&logo=AnyDesk&logoColor=white" />
     <img src="https://img.shields.io/badge/-MFA_Security-2C3E50?&style=for-the-badge&logo=Authy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ---
@@ -83,7 +89,7 @@ My vision is to help create a safer digital world for everyone.
     <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
     <img src="https://img.shields.io/badge/-Anaconda-44A833?&style=for-the-badge&logo=Anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io-badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=Pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=NumPy&logoColor=white" />
 </div>
@@ -106,43 +112,13 @@ My vision is to help create a safer digital world for everyone.
 <div>
     <img src="https://img.shields.io/badge/-Autopsy_Digital_Forensics_Certification-4B275F?&style=for-the-badge&logo=SecurityScorecard&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA_Network+_(In_Progress)-E60000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-
-
-
-
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint & Identity Management
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM / Security Operations
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications *IN-PROGRESS
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 - Detection Lab
