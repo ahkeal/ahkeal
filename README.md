@@ -1,4 +1,4 @@
-# Hi, I'm Nathan
+# Hi, I'm Ahkeal
 <a href="https://www.linkedin.com/in/nathan-hill-7531b2270/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent Computer Information Systems graduate with a concentration in Information Risk Management & Cybersecurity. Through hands on experience in network engineering and a strong interest in cybersecurity, I’ve built a solid foundation in securing, maintaining, and improving information systems.
