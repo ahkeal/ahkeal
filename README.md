@@ -3,10 +3,11 @@
 
 I am a recent Computer Information Systems graduate with a concentration in Information Risk Management & Cybersecurity. Through hands on experience in network engineering and a strong interest in cybersecurity, I’ve built a solid foundation in securing, maintaining, and improving information systems.
 
-## Objective *IN-PROGRESS
-[Provide Objective - Remove this afterwards]] [ADD ELEVATOR PITCH COM 2020 INFO FROM FILES]
+## Objective 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My mission is to secure the digital world by protecting people, data, and systems, using a risk-based approach, continuous learning, and collaborative solutions that align security controls with business goals.
+
+My vision is to help create a safer digital world for everyone.
 
 ## Skills *IN-PROGRESS
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
