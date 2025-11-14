@@ -113,7 +113,7 @@ My vision is to help create a safer digital world for everyone.
 </div>
 
 
-## Projects
+## Projects *IN-PROGRESS
 - Detection Lab
 - SOC Automation Project
 - Home Lab Server Project
