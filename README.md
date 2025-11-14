@@ -86,7 +86,7 @@ My vision is to help create a safer digital world for everyone.
     <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
     <img src="https://img.shields.io/badge/-Anaconda-44A833?&style=for-the-badge&logo=Anaconda&logoColor=white" />
-    <img src="https://img.shields.io-badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=Pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=NumPy&logoColor=white" />
 </div>
