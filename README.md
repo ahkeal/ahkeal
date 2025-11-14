@@ -1,7 +1,7 @@
-# Hello, I'm Nathan
+# Hi, I'm Nathan
 <a href="https://www.linkedin.com/in/nathan-hill-7531b2270/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hi, I’m Nate Hill, a senior at Baruch College majoring in Computer Information Systems with a focus on Cybersecurity. With hands on experience in IT support and a passion for cybersecurity, I’ve developed the skills and knowledge needed to protect and enhance information systems.
+I am a recent Computer Information Systems graduate with a concentration in Information Risk Management & Cybersecurity. Through hands on experience in network engineering and a strong interest in cybersecurity, I’ve built a solid foundation in securing, maintaining, and improving information systems.
 
 ## Objective *IN-PROGRESS
 [Provide Objective - Remove this afterwards]] [ADD ELEVATOR PITCH COM 2020 INFO FROM FILES]
