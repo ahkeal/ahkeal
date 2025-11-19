@@ -17,18 +17,18 @@ My vision is to help create a safer digital world for everyone.
 | Skill                                              | Associated Project(s)                                                                 |
 |----------------------------------------------------|---------------------------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis               | <a ref="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
-| Network Traffic Monitoring and Attack Detection    | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
-| Endpoint Logging (Sysmon, Windows Event Logs)      | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
-| Active Directory & Identity Management             | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
-| Security Automation with Shuffle SOAR              | <a href="InserLinkHere">SOC Automation Lab – Shuffle SOAR</a>                  |
-| Case Management with TheHive                       | <a href="InserLinkHere">SOC Automation Lab – TheHive</a>                       |
-| Scripting & Automation for Threat Mitigation       | <a href="InserLinkHere">SOC Automation Lab</a>                                 |
-| Incident Response Planning and Execution           | <a href="InserLinkHere">SOC Automation Lab</a>                                 |
-| Network Design, Configuration & Troubleshooting    | <a href="InserLinkHere">Home Lab Server / Virtualization Environment</a>       |
-| Firewall / Home Network Hardening & Segmentation   | <a href="InserLinkHere">Home Network Hardening & Monitoring</a>        |
-| IT General Controls & Access Management Review     | <a href="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
-| Risk Assessment & Control Recommendations          | <a href="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
-| Data Analytics & Financial Forecasting             | <a href="InserLinkHere">Financial Projections & Data Analytics Model</a>|
+| Network Traffic Monitoring and Attack Detection    | <a ref="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
+| Endpoint Logging (Sysmon, Windows Event Logs)      | <a ref="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
+| Active Directory & Identity Management             | <a ref="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
+| Security Automation with Shuffle SOAR              | <a ref="InserLinkHere">SOC Automation Lab – Shuffle SOAR</a>                  |
+| Case Management with TheHive                       | <a ref="InserLinkHere">SOC Automation Lab – TheHive</a>                       |
+| Scripting & Automation for Threat Mitigation       | <a ref="InserLinkHere">SOC Automation Lab</a>                                 |
+| Incident Response Planning and Execution           | <a ref="InserLinkHere">SOC Automation Lab</a>                                 |
+| Network Design, Configuration & Troubleshooting    | <a ref="InserLinkHere">Home Lab Server / Virtualization Environment</a>       |
+| Firewall / Home Network Hardening & Segmentation   | <a ref="InserLinkHere">Home Network Hardening & Monitoring</a>        |
+| IT General Controls & Access Management Review     | <a ref="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
+| Risk Assessment & Control Recommendations          | <a ref="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
+| Data Analytics & Financial Forecasting             | <a ref="InserLinkHere">Financial Projections & Data Analytics Model</a>|
 | SQL Querying & Relational Database Design          | <a href="SQL_PROJECT_LINK">SQL Database / Analytics Project</a>                      |
 
 
