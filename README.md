@@ -29,7 +29,7 @@ My vision is to help create a safer digital world for everyone.
 | ITGC & Access Management Review (IT Audit)         | <a href="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
 | Risk Assessment & Control Recommendations          | <a ref="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
 | Data Analytics & Financial Forecasting             | <a ref="InserLinkHere">Financial Projections & Data Analytics Model</a>|
-| SQL Querying & Relational Database Design          | <a href="[SQL_PROJECT_LINK](https://drive.google.com/drive/folders/1AkrSbJjlnI6RQFdvgrfLYwcLn8aNZ2zA)">SQL Database / Analytics Project</a> |
+| SQL Querying & Relational Database Design          | <a href="(https://drive.google.com/drive/folders/1AkrSbJjlnI6RQFdvgrfLYwcLn8aNZ2zA)">SQL Database / Analytics Project</a> |
 
 
 
