@@ -16,7 +16,7 @@ My vision is to help create a safer digital world for everyone.
 
 | Skill                                              | Associated Project(s)                                                                 |
 |----------------------------------------------------|---------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis               | <a href="">Detection Lab – Blue Team Homelab</a>                   |
+| SIEM Implementation and Log Analysis               | <a ref="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
 | Network Traffic Monitoring and Attack Detection    | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
 | Endpoint Logging (Sysmon, Windows Event Logs)      | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
 | Active Directory & Identity Management             | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
