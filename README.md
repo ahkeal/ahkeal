@@ -16,19 +16,19 @@ My vision is to help create a safer digital world for everyone.
 
 | Skill                                              | Associated Project(s)                                                                 |
 |----------------------------------------------------|---------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis               | <a href="DETECTION_LAB_LINK">Detection Lab – Blue Team Homelab</a>                   |
-| Network Traffic Monitoring and Attack Detection    | <a href="DETECTION_LAB_LINK">Detection Lab – Blue Team Homelab</a>                   |
-| Endpoint Logging (Sysmon, Windows Event Logs)      | <a href="DETECTION_LAB_LINK">Detection Lab – Blue Team Homelab</a>                   |
-| Active Directory & Identity Management             | <a href="DETECTION_LAB_LINK">Detection Lab – Blue Team Homelab</a>                   |
-| Security Automation with Shuffle SOAR              | <a href="SOC_AUTOMATION_LINK">SOC Automation Lab – Shuffle SOAR</a>                  |
-| Case Management with TheHive                       | <a href="SOC_AUTOMATION_LINK">SOC Automation Lab – TheHive</a>                       |
-| Scripting & Automation for Threat Mitigation       | <a href="SOC_AUTOMATION_LINK">SOC Automation Lab</a>                                 |
-| Incident Response Planning and Execution           | <a href="SOC_AUTOMATION_LINK">SOC Automation Lab</a>                                 |
-| Network Design, Configuration & Troubleshooting    | <a href="HOMELAB_SERVER_LINK">Home Lab Server / Virtualization Environment</a>       |
-| Firewall / Home Network Hardening & Segmentation   | <a href="HOME_NETWORK_HARDENING_LINK">Home Network Hardening & Monitoring</a>        |
-| IT General Controls & Access Management Review     | <a href="IT_AUDIT_PROJECT_LINK">IT Audit & Controls – Financial Services Case</a>    |
-| Risk Assessment & Control Recommendations          | <a href="IT_AUDIT_PROJECT_LINK">IT Audit & Controls – Financial Services Case</a>    |
-| Data Analytics & Financial Forecasting             | <a href="DATA_ANALYTICS_PROJECT_LINK">Financial Projections & Data Analytics Model</a>|
+| SIEM Implementation and Log Analysis               | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
+| Network Traffic Monitoring and Attack Detection    | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
+| Endpoint Logging (Sysmon, Windows Event Logs)      | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
+| Active Directory & Identity Management             | <a href="InserLinkHere">Detection Lab – Blue Team Homelab</a>                   |
+| Security Automation with Shuffle SOAR              | <a href="InserLinkHere">SOC Automation Lab – Shuffle SOAR</a>                  |
+| Case Management with TheHive                       | <a href="InserLinkHere">SOC Automation Lab – TheHive</a>                       |
+| Scripting & Automation for Threat Mitigation       | <a href="InserLinkHere">SOC Automation Lab</a>                                 |
+| Incident Response Planning and Execution           | <a href="InserLinkHere">SOC Automation Lab</a>                                 |
+| Network Design, Configuration & Troubleshooting    | <a href="InserLinkHere">Home Lab Server / Virtualization Environment</a>       |
+| Firewall / Home Network Hardening & Segmentation   | <a href="InserLinkHere">Home Network Hardening & Monitoring</a>        |
+| IT General Controls & Access Management Review     | <a href="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
+| Risk Assessment & Control Recommendations          | <a href="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
+| Data Analytics & Financial Forecasting             | <a href="InserLinkHere">Financial Projections & Data Analytics Model</a>|
 | SQL Querying & Relational Database Design          | <a href="SQL_PROJECT_LINK">SQL Database / Analytics Project</a>                      |
 
 
