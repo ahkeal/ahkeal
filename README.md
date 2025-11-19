@@ -26,7 +26,7 @@ My vision is to help create a safer digital world for everyone.
 | Incident Response Planning and Execution           | <a ref="InserLinkHere">SOC Automation Lab</a>                                 |
 | Network Design, Configuration & Troubleshooting    | <a ref="InserLinkHere">Home Lab Server / Virtualization Environment</a>       |
 | Firewall / Home Network Hardening & Segmentation   | <a ref="InserLinkHere">Home Network Hardening & Monitoring</a>        |
-| IT General Controls & Access Management Review     | <a ref="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
+| ITGC & Access Management Review (IT Audit)         | <a href="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
 | Risk Assessment & Control Recommendations          | <a ref="InserLinkHere">IT Audit & Controls – Financial Services Case</a>    |
 | Data Analytics & Financial Forecasting             | <a ref="InserLinkHere">Financial Projections & Data Analytics Model</a>|
 | SQL Querying & Relational Database Design          | <a href="SQL_PROJECT_LINK">SQL Database / Analytics Project</a>                      |
